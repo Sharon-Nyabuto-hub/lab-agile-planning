@@ -19,5 +19,5 @@ assignees: ''
 ``` Gherkin
 Given [some content]
 When [certain action is taken]
-Then[the outcome of action is observed]
+Then [the outcome of action is observed]
 ```
